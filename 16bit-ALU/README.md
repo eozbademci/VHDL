@@ -31,4 +31,5 @@
 | 1111  | rol(AC)|
 
 
-![port](./img/ports.PNG)
+
+<img align="right" src="./img/ports.PNG" />
