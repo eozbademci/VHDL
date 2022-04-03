@@ -2,7 +2,7 @@
 ====
 
 
-<img  src="./img/ports.PNG" alt="drawing" style="margin-left:300px"/>
+<img  src="./img/ports.PNG" alt="drawing" style="margin-left:300px; position: absolute;"/>
 
 |  AC = Accumulator Register 16 Bit Data |
 |:---:|
