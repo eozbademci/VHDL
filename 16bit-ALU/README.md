@@ -5,8 +5,8 @@
 
   
   
-<p align="right">
-<img  src="./img/ports.PNG" align="left"/></p>
+<p align="center">
+<img  src="./img/ports.PNG" align="right"/>
 
   
 
@@ -20,7 +20,7 @@
 | Sonuc = Result|
 
   
-  
+  </p>
   
 
 | SELECT | OPERATION |
