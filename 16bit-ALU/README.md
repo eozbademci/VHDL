@@ -10,6 +10,7 @@
 |  Cout = Carry Output|
 |  Sonuc = Result|
 
+<img align="right" src="./img/ports.PNG" />
 
 | SELECT | OPERATION |
 |:--:|:--:|
@@ -32,4 +33,3 @@
 
 
 
-<img align="right" src="./img/ports.PNG" />
