@@ -1,8 +1,21 @@
-VHDL
+Main Circuit
 ====
 
-VHDL samples from school projects.
-
-
-16bit-Arithmetic Logic Unit (ALU)
----------------
+| SELECT | OPERATION |
+|--|--|
+| <center> 0000 </center> | AC + DR|
+| <center> 0001 </center> | AC - DR|
+| <center> 0010 </center> | AC + DR + C|
+| <center> 0011 </center> | AC + DR'|
+| <center> 0100 </center> | DR|
+| <center> 0101 </center> | DR + 1|
+| <center> 0110 </center> | INP|
+| <center> 0111 </center> | INP + 1|
+| <center> 1000 </center> | AC + 1|
+| <center> 1001 </center> | AC - 1|
+| <center> 1010 </center> | DR - 1|
+| <center> 1011 </center> | AC and DR|
+| <center> 1100 </center> | AC or DR|
+| <center> 1101 </center> | AC xor DR|
+| <center> 1110 </center> | ror(AC)|
+| <center> 1111 </center> | rol(AC)|
