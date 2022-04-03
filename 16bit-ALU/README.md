@@ -5,8 +5,8 @@
 
   
   
-<p align="right" style="margin:100px" >
-<img  src="./img/ports.PNG"  alt="drawing"/></p>
+<p align="right">
+<img  src="./img/ports.PNG" align="left"/></p>
 
   
 
