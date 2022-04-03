@@ -6,7 +6,8 @@
   
   
 <p align="center">
-<img  src="./img/ports.PNG" align="right"/>
+<br/>
+<img  src="./img/ports.PNG" />
 
   
 
