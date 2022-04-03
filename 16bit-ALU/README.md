@@ -1,6 +1,8 @@
 <img align="left" src="https://raw.githubusercontent.com/SublimeText/AFileIcon/74e3c8ec7141814eba04aec95a85a8af938a4c61/icons/multi/file_type_vhdl%403x.png" width="40px" height="40px"/>Main Circuit
 ====
 
+<img align="right" src="./img/ports.PNG" />
+
 |  AC = Accumulator Register 16 Bit Data |
 |:---:|
 |  DR = Data Register 16 Bit Data |
@@ -10,7 +12,7 @@
 |  Cout = Carry Output|
 |  Sonuc = Result|
 
-<img align="right" src="./img/ports.PNG" />
+
 
 | SELECT | OPERATION |
 |:--:|:--:|
