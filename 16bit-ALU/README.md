@@ -9,7 +9,7 @@
 |  C = Carry Input|
 |  Cout = Carry Output|
 |  Sonuc = Result|
-
+![port](./img/ports.png)
 | SELECT | OPERATION |
 |:--:|:--:|
 | 0000  | AC + DR|
