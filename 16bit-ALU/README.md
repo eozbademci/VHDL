@@ -8,7 +8,7 @@
   
 <br/>
 
-<img  src="./img/ports.PNG" style="margin-left:400px; position:fixed"/>
+<img  src="./img/ports.PNG" align="center" style=" position:fixed"/>
 
   
 
