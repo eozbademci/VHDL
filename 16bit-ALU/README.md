@@ -9,7 +9,8 @@
 |  C = Carry Input|
 |  Cout = Carry Output|
 |  Sonuc = Result|
-![port](./img/ports.png)
+
+
 | SELECT | OPERATION |
 |:--:|:--:|
 | 0000  | AC + DR|
@@ -28,3 +29,6 @@
 | 1101  | AC xor DR|
 | 1110  | ror(AC)|
 | 1111  | rol(AC)|
+
+
+![port](./img/ports.png)
