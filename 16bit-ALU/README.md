@@ -2,7 +2,7 @@
 ====
 
 |  AC = Accumulator Register 16 Bit Data |
-|:---|
+|:---:|
 |  DR = Data Register 16 Bit Data |
 |  INP = Input Register 16 Bit Data |
 |  sec = MUX Selection Input |
@@ -11,20 +11,20 @@
 |  Sonuc = Result|
 
 | SELECT | OPERATION |
-|--|--|
-| <center> 0000 </center> | AC + DR|
-| <center> 0001 </center> | AC - DR|
-| <center> 0010 </center> | AC + DR + C|
-| <center> 0011 </center> | AC + DR'|
-| <center> 0100 </center> | DR|
-| <center> 0101 </center> | DR + 1|
-| <center> 0110 </center> | INP|
-| <center> 0111 </center> | INP + 1|
-| <center> 1000 </center> | AC + 1|
-| <center> 1001 </center> | AC - 1|
-| <center> 1010 </center> | DR - 1|
-| <center> 1011 </center> | AC and DR|
-| <center> 1100 </center> | AC or DR|
-| <center> 1101 </center> | AC xor DR|
-| <center> 1110 </center> | ror(AC)|
-| <center> 1111 </center> | rol(AC)|
+|:--:|:--:|
+| 0000  | AC + DR|
+| 0001  | AC - DR|
+| 0010  | AC + DR + C|
+| 0011  | AC + DR'|
+| 0100  | DR|
+| 0101  | DR + 1|
+| 0110  | INP|
+| 0111  | INP + 1|
+| 1000  | AC + 1|
+| 1001  | AC - 1|
+| 1010  | DR - 1|
+| 1011  | AC and DR|
+| 1100  | AC or DR|
+| 1101  | AC xor DR|
+| 1110  | ror(AC)|
+| 1111  | rol(AC)|
