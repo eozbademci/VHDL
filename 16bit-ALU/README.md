@@ -149,3 +149,9 @@ port(
 ```
 
 
+
+# Multiplexer
+
+
+
+<img  src="./img/muxRTL.PNG" alt="drawing" align="left"/>
