@@ -6,7 +6,7 @@
 
 
 
-<div align="left" style="position: absolute;">
+<div align="left">
 <table  style="text-align:center;">  
 <tr> 
  <td><b>SELECT</b></td>  
@@ -78,7 +78,7 @@
 </tr> 
 </table></div>
 
-<img  src="./img/ModelSim0.PNG" alt="drawing" align="right" width=1000px height=300px />
+<img  src="./img/ModelSim0.PNG" alt="drawing" align="right"/>
 
 
 <div align=right>
