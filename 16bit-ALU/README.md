@@ -4,8 +4,8 @@
 
 
 
-<br/><br/>
-<img  src="./img/ModelSim0.PNG" alt="drawing" align="left"  width=750px  />
+
+<img  src="./img/ModelSim0.PNG" alt="drawing" align="left"  width=750px  style="margin-top:50px"/>
 <div>
 <table  style="text-align:center;">  
 <tr> 
