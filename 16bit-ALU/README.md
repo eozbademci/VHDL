@@ -5,8 +5,8 @@
 
 
 
-
-<div align="left">
+<img  src="./img/ModelSim0.PNG" alt="drawing" align="left" />
+<div>
 <table  style="text-align:center;">  
 <tr> 
  <td><b>SELECT</b></td>  
@@ -78,7 +78,7 @@
 </tr> 
 </table></div>
 
-<img  src="./img/ModelSim0.PNG" alt="drawing" align="right"/>
+
 
 
 <div align=right>
