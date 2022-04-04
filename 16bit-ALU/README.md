@@ -152,6 +152,11 @@ port(
 
 # Multiplexer
 
+
+## RTL
+
+---
+
 <br/>
 
-<img  src="./img/mux_RTL.png" alt="drawing" align="left" width="400px"/>
+<img  src="./img/RTLmux.PNG" alt="drawing" align="left" />
