@@ -76,13 +76,13 @@
 <td>1111</td>  
 <td>rol(AC)</td> 
 </tr> 
-</table></div>
+</table>
 
 
-<center><img  src="./img/ports.PNG" alt="drawing" style=" position: absolute;"/></center>
 
-<div align=left>
-<table style="text-align:center;">
+
+
+<table style="text-align:center;" align="left">
 <tr>
 <td>
 <b>PORTS</b>
@@ -133,6 +133,18 @@ Sonuc = Result
 </table>
 </div>
 
+```
+port(
+	AC : in std_logic_vector(15 downto 0);
+	DR : in std_logic_vector(15 downto 0);
+	INP : in std_logic_vector(15 downto 0);
+	sec : in std_logic_vector(3 downto 0);
+	C : in std_logic;
+	
+	Cout : out std_logic;
+	Sonuc : out std_logic_vector(15 downto 0)
+	);
 
+```
 
 
