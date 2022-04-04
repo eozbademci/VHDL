@@ -79,10 +79,10 @@
 </table></div>
 
 
-
+<center><img  src="./img/ports.PNG" alt="drawing" style=" position: absolute;"/></center>
 
 <div align=left>
-<table style="text-align:center; position: absolute;">
+<table style="text-align:center;">
 <tr>
 <td>
 <b>PORTS</b>
@@ -134,5 +134,5 @@ Sonuc = Result
 </div>
 
 
-<center><img  src="./img/ports.PNG" alt="drawing" style=" position: absolute;"/></center>
+
 
