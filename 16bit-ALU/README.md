@@ -6,8 +6,8 @@
 
 
 
-<div>
-<table align="left" style="text-align:center;">  
+<div align="left" style="position: absolute;">
+<table  style="text-align:center;">  
 <tr> 
  <td><b>SELECT</b></td>  
 <td><b>OPERATION</b></td>  
@@ -78,7 +78,8 @@
 </tr> 
 </table></div>
 
-<table style="text-align:center; margin-left:100px" align="left";>
+<div style="margin-left:300px">
+<table style="text-align:center; ">
 <tr>
 <td>
 <b>PORTS</b>
@@ -127,7 +128,7 @@ Sonuc = Result
 </td>
 </tr>
 </table>
-
+</div>
 
 
 <img  src="./img/ports.PNG" alt="drawing" style="margin-left:50px; position: absolute;"/>
