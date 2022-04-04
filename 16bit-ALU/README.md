@@ -6,58 +6,6 @@
 
 
 
-
-
-<table style="text-align:center;" align="left";>
-<tr>
-<td>
-<b>PORTS</b>
-</td>
-</tr>
-
-<tr>
-<td>
-AC = Accumulator Register 16 Bit Data
-</td>
-</tr>
-
-<tr>
-<td>
-DR = Data Register 16 Bit Data
-</td>
-</tr>
-
-<tr>
-<td>
-INP = Input Register 16 Bit Data
-</td>
-</tr>
-
-<tr>
-<td>
-sec = MUX Selection Input
-</td>
-</tr>
-
-<tr>
-<td>
-C = Carry Input
-</td>
-</tr>
-
-<tr>
-<td>
-Cout = Carry Output
-</td>
-</tr>
-
-<tr>
-<td>
-Sonuc = Result
-</td>
-</tr>
-</table>
-
 <div>
 <table align="left" style="text-align:center;">  
 <tr> 
@@ -129,5 +77,57 @@ Sonuc = Result
 <td>rol(AC)</td> 
 </tr> 
 </table></div>
+
+<table style="text-align:center; margin-left:100px" align="left";>
+<tr>
+<td>
+<b>PORTS</b>
+</td>
+</tr>
+
+<tr>
+<td>
+AC = Accumulator Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+DR = Data Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+INP = Input Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+sec = MUX Selection Input
+</td>
+</tr>
+
+<tr>
+<td>
+C = Carry Input
+</td>
+</tr>
+
+<tr>
+<td>
+Cout = Carry Output
+</td>
+</tr>
+
+<tr>
+<td>
+Sonuc = Result
+</td>
+</tr>
+</table>
+
+
 
 <img  src="./img/ports.PNG" alt="drawing" style="margin-left:50px; position: absolute;"/>
