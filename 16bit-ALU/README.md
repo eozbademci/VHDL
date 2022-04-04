@@ -78,7 +78,7 @@
 </tr> 
 </table></div>
 
-<div style="margin-left:300px">
+<div align=right>
 <table style="text-align:center; ">
 <tr>
 <td>
