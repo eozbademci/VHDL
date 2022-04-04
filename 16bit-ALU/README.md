@@ -7,22 +7,62 @@
 
 
 
-|  AC = Accumulator Register 16 Bit Data |
-|:---:|
-|  DR = Data Register 16 Bit Data |
-|  INP = Input Register 16 Bit Data |
-|  sec = MUX Selection Input |
-|  C = Carry Input|
-|  Cout = Carry Output|
-|  Sonuc = Result|
 
+<table style="text-align:center;">
+<tr>
+<td>
+<b>PORTS</b>
+</td>
+</tr>
 
+<tr>
+<td>
+AC = Accumulator Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+DR = Data Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+INP = Input Register 16 Bit Data
+</td>
+</tr>
+
+<tr>
+<td>
+sec = MUX Selection Input
+</td>
+</tr>
+
+<tr>
+<td>
+C = Carry Input
+</td>
+</tr>
+
+<tr>
+<td>
+Cout = Carry Output
+</td>
+</tr>
+
+<tr>
+<td>
+Sonuc = Result
+</td>
+</tr>
+</table>
 
 <div>
-<table align="left">  
+<table align="left" style="text-align:center;">  
 <tr> 
- <td>SELECT</td>  
-<td>OPERATION</td>  
+ <td><b>SELECT</b></td>  
+<td><b>OPERATION</b></td>  
 </tr>  
 <tr>  
 <td>0000</td>  
