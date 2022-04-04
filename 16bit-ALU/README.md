@@ -78,7 +78,7 @@
 </tr> 
 </table></div>
 
-<img  src="./img/ModelSim0.PNG" alt="drawing" align="right" />
+<img  src="./img/ModelSim0.PNG" alt="drawing" align="right" width=1000px height=300px />
 
 
 <div align=right>
