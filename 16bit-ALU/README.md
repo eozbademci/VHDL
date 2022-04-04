@@ -15,24 +15,77 @@
 
 
 
-| SELECT | OPERATION |
-|:--:|:--:|
-| 0000  | AC + DR|
-| 0001  | AC - DR|
-| 0010  | AC + DR + C|
-| 0011  | AC + DR'|
-| 0100  | DR|
-| 0101  | DR + 1|
-| 0110  | INP|
-| 0111  | INP + 1|
-| 1000  | AC + 1|
-| 1001  | AC - 1|
-| 1010  | DR - 1|
-| 1011  | AC and DR|
-| 1100  | AC or DR|
-| 1101  | AC xor DR|
-| 1110  | ror(AC)|
-| 1111  | rol(AC)|
 
 
 
+
+<table align="left">  
+<tr> 
+ <td>SELECT</td>  
+<td>OPERATION</td>  
+</tr>  
+<tr>  
+<td>0000</td>  
+<td>AC + DR</td> 
+ </tr> 
+<tr>  
+<td>0001</td>  
+<td>AC - DR</td> 
+</tr> 
+<tr>  
+<td>0010</td>  
+<td>AC + DR + C</td> 
+</tr> 
+<tr>  
+<td>0011</td>  
+<td>AC + DR'</td> 
+</tr> 
+<tr>  
+<td>0100</td>  
+<td>DR</td> 
+</tr> 
+<tr>  
+<td>0101</td>  
+<td>DR + 1</td> 
+</tr> 
+<tr>  
+<td>0110</td>  
+<td>INP</td> 
+</tr> 
+<tr>  
+<td>0111</td>  
+<td>INP + 1</td> 
+</tr> 
+<tr>  
+<td>1000</td>  
+<td>AC + 1</td> 
+</tr> 
+<tr>  
+<td>1001</td>  
+<td>AC - 1</td> 
+</tr> 
+<tr>  
+<td>1010</td>  
+<td>DR - 1</td> 
+</tr> 
+<tr>  
+<td>1011</td>  
+<td>AC and DR</td> 
+</tr> 
+<tr>  
+<td>1100</td>  
+<td>AC or DR</td> 
+</tr> 
+<tr>  
+<td>1101</td>  
+<td>AC xor DR</td> 
+</tr> 
+<tr>  
+<td>1110</td>  
+<td>ror(AC)</td> 
+</tr> 
+<tr>  
+<td>1111</td>  
+<td>rol(AC)</td> 
+</tr> 
+</table>
