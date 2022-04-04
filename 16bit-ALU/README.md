@@ -81,7 +81,7 @@
 
 
 
-<div align=right>
+<div align=left>
 <table style="text-align:center; position: absolute;">
 <tr>
 <td>
