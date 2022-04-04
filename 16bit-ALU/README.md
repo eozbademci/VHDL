@@ -78,7 +78,7 @@
 </tr> 
 </table></div>
 
-
+<img  src="./img/Main.PNG" alt="drawing" align="right" />
 
 
 <div align=right>
@@ -136,4 +136,3 @@ Sonuc = Result
 
 <center><img  src="./img/ports.PNG" alt="drawing" style=" position: absolute;"/></center>
 
-<img  src="./img/Main.PNG" alt="drawing" align="right" />
