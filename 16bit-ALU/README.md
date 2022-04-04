@@ -5,7 +5,7 @@
 
 
 
-<img  src="./img/ModelSim0.PNG" alt="drawing" align="left"  width=850px  />
+<img  src="./img/ModelSim0.PNG" alt="drawing" align="left"  width=800px  />
 <div>
 <table  style="text-align:center;">  
 <tr> 
