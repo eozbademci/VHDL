@@ -2,13 +2,13 @@
 ====
 
 
-<img  src="./img/ports.PNG" alt="drawing" style="margin-left:50px; position: absolute;"/>
 
 
 
 
 
-<table style="text-align:center;" align="right";>
+
+<table style="text-align:center;" align="left";>
 <tr>
 <td>
 <b>PORTS</b>
@@ -129,3 +129,5 @@ Sonuc = Result
 <td>rol(AC)</td> 
 </tr> 
 </table></div>
+
+<img  src="./img/ports.PNG" alt="drawing" style="margin-left:50px; position: absolute;"/>
