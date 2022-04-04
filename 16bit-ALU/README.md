@@ -82,7 +82,7 @@
 
 
 
-<table style="text-align:center;" align="left">
+<table style="text-align:center;" align="right">
 <tr>
 <td>
 <b>PORTS</b>
@@ -132,6 +132,7 @@ Sonuc = Result
 </tr>
 </table>
 </div>
+
 
 ```
 port(
