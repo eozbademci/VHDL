@@ -152,10 +152,20 @@ port(
 
 # Multiplexer
 
+## Port
+
+```
+port(
+	S : in std_logic_vector(3 downto 0);
+	muxin : in std_logic_vector(15 downto 0);
+	
+	muxout : out std_logic
+	);
+
+```
 
 ## RTL
 
----
 
 <br/>
 
