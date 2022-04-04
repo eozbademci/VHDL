@@ -154,4 +154,4 @@ port(
 
 
 
-<img  src="./img/muxRTL.PNG" alt="drawing" align="left"/>
+<img  src="./img/mux_RTL.PNG" alt="drawing" align="left"/>
