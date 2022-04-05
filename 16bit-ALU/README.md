@@ -236,5 +236,4 @@ AxorB <= sig_1;
 
 ## RTL
 
-<img  src="./img/fulladder16bit_1.PNG" alt="drawing" />
-<img  src="./img/fulladder16bit2.PNG" alt="drawing" />
+<img  src="./img/fulladder16bit_1.PNG" alt="drawing" /><img  src="./img/fulladder16bit2.PNG" alt="drawing" />
