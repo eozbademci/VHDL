@@ -1,5 +1,5 @@
 -- Erdal Özbademci
--- B200109036
+
 
 -- 0000 --  AC <- AC + DR
 -- 0001 --  AC <- AC - DR
