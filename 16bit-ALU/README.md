@@ -168,29 +168,65 @@ port(
 ## Architectural
 
 ```
-port(
-	with S select
-	muxout <= muxin(0) when "0000",
-				 muxin(1) when "0001",
-				 muxin(2) when "0010",
-				 muxin(3) when "0011",
-				 muxin(4) when "0100",
-				 muxin(5) when "0101",
-				 muxin(6) when "0110",
-				 muxin(7) when "0111",
-				 muxin(8) when "1000",
-				 muxin(9) when "1001",
-				 muxin(10) when "1010",
-				 muxin(11) when "1011",
-				 muxin(12) when "1100",
-				 muxin(13) when "1101",
-				 muxin(14) when "1110",
-				 muxin(15) when "1111";
-	);
+with S select
+muxout <= muxin(0) when "0000",
+		  muxin(1) when "0001",
+		  muxin(2) when "0010",
+		  muxin(3) when "0011",
+		  muxin(4) when "0100",
+		  muxin(5) when "0101",
+		  muxin(6) when "0110",
+		  muxin(7) when "0111",
+		  muxin(8) when "1000",
+		  muxin(9) when "1001",
+		  muxin(10) when "1010",
+		  muxin(11) when "1011",
+		  muxin(12) when "1100",
+		  muxin(13) when "1101",
+		  muxin(14) when "1110",
+		  muxin(15) when "1111";
 ```
 
 <br/>
 
 ## RTL
 
-<img  src="./img/RTLmux.PNG" alt="drawing" align="left" />
+<img  src="./img/RTLmux.PNG" alt="drawing" />
+
+<br/>
+
+
+# Full Adder
+
+## Port
+
+```
+port(
+	A : in std_logic;
+	B : in std_logic;
+	Cin : in std_logic;
+	Cout : out std_logic;
+	AandB : out std_logic;
+	AxorB : out std_logic;
+	Q : out std_logic
+	);	
+```
+
+
+## Architectural
+
+```
+signal sig_1 : std_logic;
+begin
+sig_1 <= A xor B;
+Q <= sig_1 xor Cin;
+AandB <= A and B;
+Cout <= (sig_1 and Cin) or (A and B);
+AxorB <= sig_1;		
+```
+
+## RTL
+
+<img  src="./img/fulladderRTL.PNG" alt="drawing" />
+
+<br/>
