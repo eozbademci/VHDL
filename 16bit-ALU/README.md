@@ -8,7 +8,7 @@
 <div>
 <table  style="text-align:center;">  
 <tr> 
- <td><b>SELECT</b></td>  
+ <td><b>SELECT</b></td> 
 <td><b>OPERATION</b></td>  
 </tr>  
 <tr>  
